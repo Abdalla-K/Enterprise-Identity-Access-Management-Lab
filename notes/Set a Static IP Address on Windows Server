@@ -1,0 +1,2 @@
+We set a static IP address on the windows server since this machine is a domain controller so it needs a fixed IP that other machines can point to.
+Assigning it a DHCP IP would cause issues since IP address changes on reboot so other machines won't be pointing to the DC anymore.
