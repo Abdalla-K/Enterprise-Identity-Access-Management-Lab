@@ -1,0 +1,2 @@
+This makes things organized and scalable because we are assigning Sales-Users in their own group. When we create a 
+GPO we can just apply it to the Sales-Users group by using Security Filtering and it will be applied to all users of the group.
